@@ -1,0 +1,37 @@
+name: secondtry
+description: My second flutter try
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.0.1
+  cupertino_icons: ^1.0.2
+  flutter_material_pickers: ^2.1.1
+  fluttertoast: ^8.0.6
+  audioplayers: ^0.18.3
+  file_picker: ^3.0.1
+  permission_handler: ^7.1.0
+  flutter_launcher_icons: ^0.9.0
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/end.mp4
