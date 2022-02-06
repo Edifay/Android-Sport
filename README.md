@@ -4,5 +4,6 @@ Cette application est une application pour créer ces entraînement de sport dé
 
 # Video demonstration :
 
-https://user-images.githubusercontent.com/59512940/152697385-b2794537-8392-48af-a12d-77b7abffbaf7.mov
+
+https://user-images.githubusercontent.com/59512940/152697732-4defb596-3f24-4b2c-82c6-57d876482e20.mp4
 
